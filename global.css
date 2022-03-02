@@ -1,0 +1,249 @@
+/* Header */
+
+/* mobile */
+
+@media screen and (max-width: 900px) {
+    #logo {
+        display: none !important;
+    }
+
+    .navbar-toggler {
+        margin-left: 45% !important;
+    }
+
+    .background {
+        margin-top: 20px !important;
+    }
+
+    .home {
+        display: inline-block !important;
+    }
+
+    .nav-fonts {
+        margin-right: 50% !important;
+        text-align: center !important;
+        padding-top: 0px !important;
+    }
+
+    #submenu {
+        margin-left: 0%;
+    }
+
+    .nav-fonts-mbl {
+        margin-top: 4px !important;
+        margin-bottom: 4px !important;
+        font-size: 17px !important;
+    }
+
+    #submenu li a {
+        padding: 0px !important;
+    }
+
+    #inst1 {
+        display: none !important;
+    }
+
+    #inst2 {
+        display: block !important;
+    }
+
+    .divisoria {
+        width: 54%;
+        height: 3px;
+        background-color: white;
+    }
+}
+
+/* Mobile */
+#fileira1_cards{
+    display: block;
+    text-align: center;
+}
+
+#fileira2_cards{
+    display: block;
+    text-align: center;
+}
+
+.imagens_cards{
+    padding: 5%;
+    border-radius: 10%;
+}
+
+.cards{
+    text-align: center;
+    margin: 1%;
+    display: inline-block;
+    width: 20%;
+}
+
+.canva_text{
+    margin-bottom: 30px;
+}
+
+#video_canva{
+    margin:0 auto;
+    display: block;
+    
+}
+
+#inst2 {
+    display: none;
+}
+
+.home {
+    display: none;
+}
+
+.inst {
+    left: -12% !important;
+}
+
+.dropdown-divider {
+    margin: 0.1rem 0;
+}
+
+.inst-txt {
+    padding: 7px;
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+.bg-blue {
+    background-color: #334ca7;
+}
+
+#logo {
+    padding: 0px;
+}
+
+.navbar-nav {
+    margin-left: 38.5%;
+}
+
+.nav-fonts {
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    padding-top: 27px;
+}
+
+.nav-fonts:hover {
+    color: #d19341;
+    transition: 0.2s;
+}
+
+.btn-floating {
+    width: 4.3125rem;
+    height: 4.3125rem;
+}
+
+.btn-floating .fab, .btn-floating .far, .btn-floating .fas {
+    width: 4.3125rem;
+    line-height: 4.3125rem;
+}
+
+.btn {
+    font-size: 1.75rem;
+}
+
+#btn-historia {
+    font-weight: bolder;
+    color: black;
+    font-size: 20px;
+    border-width: 0px;
+    border-radius: 30px;
+    background-color: white;
+}
+
+#btn-historia:hover {
+    color: white;
+    background-color: #d19341;
+    font-size: 21px;
+    transition: 0.3s;
+}
+
+.dropdown-toggle:after {
+    display: none;
+}
+
+.dropdown-menu[data-mdb-popper] {
+    margin-top: -1.875rem;
+}
+
+
+
+/* Header */
+
+
+/* Footer */
+
+#etec_logo {
+    width: 20%;
+    margin-bottom: 20px;
+}
+
+#copyrigth {
+    margin: 0px;
+}
+
+/* -- Footer -- */
+
+.p-4 {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+
+/* Modal */
+
+.btn-modal {
+    border-radius: 30px;
+    font-size: 21px;
+}
+
+.btn-modal:hover {
+    color: white;
+    background-color: #d19341;
+
+    transition: 0.3s;
+}
+
+/* Modal */
+
+
+/* -- Footer -- */
+
+
+/* Para todas as pags */
+
+/* Mobile */
+
+@media screen and (max-width: 900px) {
+    .maps {
+        width: 100% !important;
+    }
+
+}
+
+/* Mobile */
+
+.bg-light {
+    background-color: rgba(226, 226, 226, 0.37) !important;
+}
+
+.titulo {
+    margin-top: 60px;
+    margin-bottom: 30px;
+
+}
+
+main {
+    margin-bottom: 60px;
+
+}
+
+
+
+
+/* Para todas as pags */
