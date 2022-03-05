@@ -81,10 +81,17 @@
     margin-bottom: 30px;
 }
 
-#video_canva{
-    margin:0 auto;
-    display: block;
-    
+#area_video{
+    display: flex;
+    justify-content: center;
+}
+
+.card_canva{
+    text-align: center;
+    margin-left: 1%;
+    display: inline-block;
+    width: 15%;
+
 }
 
 #inst2 {
