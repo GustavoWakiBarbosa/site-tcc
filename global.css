@@ -94,6 +94,11 @@
 
 }
 
+.area_forms{
+    margin: auto;
+    width: 30%;
+}
+
 #inst2 {
     display: none;
 }
