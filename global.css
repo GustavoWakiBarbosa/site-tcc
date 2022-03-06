@@ -111,9 +111,6 @@
     left: -12% !important;
 }
 
-.dropdown-divider {
-    margin: 0.1rem 0;
-}
 
 .inst-txt {
     padding: 7px;
@@ -121,9 +118,6 @@
     font-size: 16px;
 }
 
-.bg-blue {
-    background-color: #334ca7;
-}
 
 #logo {
     padding: 0px;
@@ -156,31 +150,7 @@
 }
 
 .btn {
-    font-size: 1.75rem;
-}
-
-#btn-historia {
-    font-weight: bolder;
-    color: black;
-    font-size: 20px;
-    border-width: 0px;
-    border-radius: 30px;
-    background-color: white;
-}
-
-#btn-historia:hover {
-    color: white;
-    background-color: #d19341;
-    font-size: 21px;
-    transition: 0.3s;
-}
-
-.dropdown-toggle:after {
-    display: none;
-}
-
-.dropdown-menu[data-mdb-popper] {
-    margin-top: -1.875rem;
+    font-size: 1.5rem;
 }
 
 
