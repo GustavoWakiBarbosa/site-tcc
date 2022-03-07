@@ -1,8 +1,5 @@
 function bonequinho() {
-    // var mapa = document.getElementById("mapa_bonequinho")
-    // mapa.src = novomapa;
-    // novomapa = "https://www.google.com/maps/embed?pb=!4v1646515458112!6m8!1m7!1sTokrPgRGbRm-TR2MQOKDOQ!2m2!1d-23.53799702455481!2d-46.6368911726317!3f235.7818458254458!4f-2.318009052617853!5f0.7820865974627469"
-
+ 
     var img = document.getElementById("mapa");
     img.src = 'https://www.google.com/maps/embed?pb=!4v1646515458112!6m8!1m7!1sTokrPgRGbRm-TR2MQOKDOQ!2m2!1d-23.53799702455481!2d-46.6368911726317!3f235.7818458254458!4f-2.318009052617853!5f0.7820865974627469';
 
