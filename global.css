@@ -3,6 +3,41 @@
 /* mobile */
 
 @media screen and (max-width: 900px) {
+    .fontesdocard{
+        font-size: 15px !important;
+    }
+    .btn{
+        font-size: 15px !important;
+    }
+    #video_canva{
+        width: 400px !important;
+        height: 253px!important;
+    }
+    #area_video{
+        display: block !important;
+    }
+    .cards{
+        display: block !important;
+        text-align: center !important;
+        margin-left: 30% !important;
+        width: 40% !important;
+    }
+    /* .fontesdocard{
+        font-size: 10px !important;
+    } */
+    .navbar-nav{
+        margin-top: 5% !important;
+    }
+    .nav-link{
+        padding: 0px !important;
+    }
+    .nav-fonts{
+        margin-left: 45% !important;
+        font-size: 15px !important;
+    }
+    .lelele {
+        margin-left: -1% !important;
+    }
     #logo {
         display: none !important;
     }
@@ -55,6 +90,11 @@
 }
 
 /* Mobile */
+
+.navbar-nav {
+    margin: auto;
+}
+
 #fileira1_cards{
     display: block;
     text-align: center;
@@ -123,10 +163,6 @@
     padding: 0px;
 }
 
-.navbar-nav {
-    margin-left: 38.5%;
-}
-
 .nav-fonts {
     color: white;
     font-weight: bolder;
@@ -158,6 +194,9 @@
     justify-content: center;
 }
 
+.area_icones{
+    margin-bottom: 0.5cm;
+}
 
 /* Header */
 
@@ -194,6 +233,7 @@
 
     transition: 0.3s;
 }
+
 
 /* Modal */
 
