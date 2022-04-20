@@ -3,6 +3,10 @@
 /* mobile */
 
 @media screen and (max-width: 900px) {
+    #carouselExampleInterval{
+        margin-top: 11% !important;
+    }
+
     .fontesdocard{
         font-size: 15px !important;
     }
@@ -93,6 +97,18 @@
     margin: auto;
 }
 
+.nav-fonts {
+    color: white;
+    font-weight: bolder;
+    font-size: 18px;
+    padding-top: 27px;
+}
+
+#carouselExampleInterval{
+    margin-top: 9%;
+}
+
+
 #fileira1_cards{
     display: block;
     text-align: center;
@@ -115,6 +131,9 @@
     width: 20%;
 }
 
+.fontesdocard{
+    margin-top: -24px;
+}
 .canva_text{
     margin-bottom: 30px;
 }
@@ -161,13 +180,6 @@
     padding: 0px;
 }
 
-.nav-fonts {
-    color: white;
-    font-weight: bolder;
-    font-size: 20px;
-    padding-top: 27px;
-}
-
 .nav-fonts:hover {
     color: #d19341;
     transition: 0.2s;
@@ -194,6 +206,10 @@
 
 .area_icones{
     margin-bottom: 0.5cm;
+}
+
+.areasocial{
+    margin-bottom: 20px;
 }
 
 /* Header */
