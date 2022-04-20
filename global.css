@@ -100,7 +100,7 @@
 .nav-fonts {
     color: white;
     font-weight: bolder;
-    font-size: 18px;
+    font-size: 25px;
     padding-top: 27px;
 }
 
@@ -131,9 +131,6 @@
     width: 20%;
 }
 
-.fontesdocard{
-    margin-top: -24px;
-}
 .canva_text{
     margin-bottom: 30px;
 }
