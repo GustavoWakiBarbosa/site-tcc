@@ -138,6 +138,7 @@
 #area_video{
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .card_canva{
