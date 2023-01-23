@@ -5,6 +5,7 @@
 </div>
 
 ## 🤔 O que é EtecapDevs?
+
 EtecapDevs é uma plataforma que tem como intuito auxiliar novos empreendedores que estão entrando no rumo e desejam cada vez mais profissionalizar seus negócios, através do nosso projeto se torna possível qualquer pessoa ter a capacidade de obter/desenvolver artes profissionais para sua redes sociais. Tudo foi realizado com a facilidade em mente, para que pudessse ser acessível e compreendido por todos.
 
 ## 👨‍💻 Tecnologias utilizadas
@@ -12,7 +13,7 @@ EtecapDevs é uma plataforma que tem como intuito auxiliar novos empreendedores 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="90" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="90" alt="css3 logo"  />
-  <img src="assets/Design sem nome (1).svg" height="60" width="60" alt="canva logo"  />
+  <img src="assets/Design sem nome (1).svg" height="60" width="60" alt="canva logo"  style="margin:0px 20px"/>
   <img src="assets/Design sem nome.svg" height="60" width="60" alt="mdb logo"  />
 </div>
 
@@ -25,17 +26,12 @@ EtecapDevs é uma plataforma que tem como intuito auxiliar novos empreendedores 
 - Acessibilidade.
 
 # 📁 Acesso ao projeto
+
 https://etecapdevs.netlify.app/
 
 ## 🟠 Projeto:
+
 ![image](https://user-images.githubusercontent.com/90512847/214071571-db202cff-fa51-41b5-9ac6-cabcb6eeee41.png)
 ![Video_230123130810](https://user-images.githubusercontent.com/90512847/214094524-f3cb51a5-d639-4c89-a529-ae4a24eba576.gif)
 
-
-
-
-
-
-
 ![status](https://user-images.githubusercontent.com/90512847/214071333-70fd0716-27f3-4783-b61a-84ac36f22d45.png)
-
