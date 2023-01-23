@@ -1,7 +1,7 @@
 ![mega (1)](https://user-images.githubusercontent.com/90512847/214070340-ea0fef2e-7ef3-4dda-b92d-f5be060ea37c.png)
 
 <div align="center">
-# 🧡 **EtecapDevs**
+  <h1> 🧡 EtecapDevs </h1>
 </div>
 
 ## 🤔 O que é EtecapDevs?
@@ -12,8 +12,8 @@ EtecapDevs é uma plataforma que tem como intuito auxiliar novos empreendedores 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="90" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="90" alt="css3 logo"  />
-  <img src="assets/Design sem nome (1).png" style="margin: 0em 1em" height="60" width="60" alt="canva logo"  />
-  <img src="assets/Design sem nome.png" height="60" width="60" alt="mdb logo"  />
+  <img src="assets/Design sem nome (1).svg" height="60" width="60" alt="canva logo"  />
+  <img src="assets/Design sem nome.svg" height="60" width="60" alt="mdb logo"  />
 </div>
 
 ## ⭐ Principais Conceitos
