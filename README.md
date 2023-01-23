@@ -32,6 +32,9 @@ https://etecapdevs.netlify.app/
 ## 🟠 Projeto:
 
 ![image](https://user-images.githubusercontent.com/90512847/214071571-db202cff-fa51-41b5-9ac6-cabcb6eeee41.png)
-![Video_230123130810](https://user-images.githubusercontent.com/90512847/214094524-f3cb51a5-d639-4c89-a529-ae4a24eba576.gif)
+
+<br>
+
+<img src="assets/Video_230123130810.gif" height="500" width="1920" alt="gif"  />
 
 ![status](https://user-images.githubusercontent.com/90512847/214071333-70fd0716-27f3-4783-b61a-84ac36f22d45.png)
