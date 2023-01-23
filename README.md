@@ -9,11 +9,11 @@ EtecapDevs é uma plataforma que tem como intuito auxiliar novos empreendedores 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="90" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="90" alt="css3 logo"  />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://media.discordapp.net/attachments/862445963843076157/1067112064268644472/Design_sem_nome.png)" height="60" width="90" alt="css3 logo"  />
+  <img src="assets/Design sem nome (1).png" style="margin: 0em 1em" height="60" width="60" alt="canva logo"  />
+  <img src="assets/Design sem nome.png" height="60" width="60" alt="mdb logo"  />
   
 
 </div>
-![Design sem nome](https://user-images.githubusercontent.com/90512847/214072379-d7fc6dc5-537f-477d-a110-97e8514b9f1e.png)
 
 ## ⭐ Principais Conceitos
 
@@ -29,8 +29,7 @@ https://etecapdevs.netlify.app/
 ## 🟠 Projeto:
 ![image](https://user-images.githubusercontent.com/90512847/214071571-db202cff-fa51-41b5-9ac6-cabcb6eeee41.png)
 
-
-
+![Video_230123130810_AdobeExpress](https://user-images.githubusercontent.com/90512847/214091447-cc08f3d4-fd4b-480d-b9c4-33e8f28d38fa.gif)
 
 
 
