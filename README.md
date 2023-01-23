@@ -35,6 +35,6 @@ https://etecapdevs.netlify.app/
 
 <br>
 
-<img src="assets/Video_230123130810.gif" height="500" width="1920" alt="gif"  />
+<img src="assets/Video_230123130810.gif" height="400" width="1920" alt="gif"  />
 
 ![status](https://user-images.githubusercontent.com/90512847/214071333-70fd0716-27f3-4783-b61a-84ac36f22d45.png)
