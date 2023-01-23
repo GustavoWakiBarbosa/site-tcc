@@ -9,7 +9,8 @@ EtecapDevs é uma plataforma que tem como intuito auxiliar novos empreendedores 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="90" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="90" alt="css3 logo"  />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://media.discordapp.net/attachments/862445963843076157/1067112064268644472/Design_sem_nome.png)" height="60" width="90" alt="css3 logo"  />
+  <img src="assets/Design sem nome (1).png" height="60" width="90" alt="css3 logo"  />
+  <img src="assets/Design sem nome.png" height="60" width="90" alt="css3 logo"  />
   
 
 </div>
