@@ -28,7 +28,7 @@ https://etecapdevs.netlify.app/
 
 ## 🟠 Projeto:
 ![image](https://user-images.githubusercontent.com/90512847/214071571-db202cff-fa51-41b5-9ac6-cabcb6eeee41.png)
-![Video_230123130810](https://user-images.githubusercontent.com/90512847/214093527-afd42c76-167f-4edf-85b1-17ebac9ab5bf.gif)
+  <img src="assets/Video_230123130810.gif" height="1080" width="1920" alt="mdb logo"  />
 
 
 
