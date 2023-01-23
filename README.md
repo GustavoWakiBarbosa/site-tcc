@@ -1,6 +1,7 @@
 ![mega (1)](https://user-images.githubusercontent.com/90512847/214070340-ea0fef2e-7ef3-4dda-b92d-f5be060ea37c.png)
+<div align="center">
 # 🧡 **EtecapDevs**
-
+</div>
 ## 🤔 O que é EtecapDevs?
 EtecapDevs é uma plataforma que tem como intuito auxiliar novos empreendedores que estão entrando no rumo e desejam cada vez mais profissionalizar seus negócios, através do nosso projeto se torna possível qualquer pessoa ter a capacidade de obter/desenvolver artes profissionais para sua redes sociais. Tudo foi realizado com a facilidade em mente, para que pudessse ser acessível e compreendido por todos.
 
