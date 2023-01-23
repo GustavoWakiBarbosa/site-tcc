@@ -2,6 +2,7 @@
 <div align="center">
 # 🧡 **EtecapDevs**
 </div>
+
 ## 🤔 O que é EtecapDevs?
 EtecapDevs é uma plataforma que tem como intuito auxiliar novos empreendedores que estão entrando no rumo e desejam cada vez mais profissionalizar seus negócios, através do nosso projeto se torna possível qualquer pessoa ter a capacidade de obter/desenvolver artes profissionais para sua redes sociais. Tudo foi realizado com a facilidade em mente, para que pudessse ser acessível e compreendido por todos.
 
