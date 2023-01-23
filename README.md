@@ -1,3 +1,9 @@
+<style>
+.teste{
+  margin: 0em 1em;
+}
+} 
+</style>
 ![mega (1)](https://user-images.githubusercontent.com/90512847/214070340-ea0fef2e-7ef3-4dda-b92d-f5be060ea37c.png)
 # 🧡 **EtecapDevs**
 
@@ -9,8 +15,7 @@ EtecapDevs é uma plataforma que tem como intuito auxiliar novos empreendedores 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="90" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="90" alt="css3 logo"  />
-  
-  <img src="assets/Design sem nome (1).png" height="60" width="60" alt="canva logo"  />
+  <img src="assets/Design sem nome (1).png" class ="teste" height="60" width="60" alt="canva logo"  />
   <img src="assets/Design sem nome.png" height="60" width="60" alt="mdb logo"  />
   
 
@@ -28,10 +33,12 @@ EtecapDevs é uma plataforma que tem como intuito auxiliar novos empreendedores 
 https://etecapdevs.netlify.app/
 
 ## 🟠 Projeto:
+Imagem do projeto:
 ![image](https://user-images.githubusercontent.com/90512847/214071571-db202cff-fa51-41b5-9ac6-cabcb6eeee41.png)
 
 
-
+Vídeo do Projeto:
+![Video_230123130810_AdobeExpress](https://user-images.githubusercontent.com/90512847/214091447-cc08f3d4-fd4b-480d-b9c4-33e8f28d38fa.gif)
 
 
 
